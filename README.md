@@ -1,0 +1,1 @@
+# angular-global-error-handling
